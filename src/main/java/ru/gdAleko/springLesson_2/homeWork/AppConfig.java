@@ -8,7 +8,7 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 
 @Configuration
-@ComponentScan("ru.gbAleko.springLesson_2.homeWork")
+@ComponentScan("ru.gdAleko.springLesson_2.homeWork")
 public class AppConfig {
 
     @Bean
