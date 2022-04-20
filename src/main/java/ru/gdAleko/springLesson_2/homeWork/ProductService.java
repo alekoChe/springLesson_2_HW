@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 import java.util.List;
 
 @Component()
-public class ProductService { //////////////////////////
+public class ProductService { //////////////////////////.
 
     @Autowired
     private Repository repository;
